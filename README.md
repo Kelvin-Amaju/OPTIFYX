@@ -14,17 +14,12 @@ A simple weather application that allows users to fetch and display current weat
 - **JavaScript**: Fetching and displaying weather data from the API.
 
 ## Demo Preview 🎥
-![Weather App Preview](preview.gif)
-
-> You can replace the above image link with a hosted GIF or static screenshot of your app in action.
-
-### Video Walkthrough 📹
-[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+![Weather App Preview](https://github.com/kelvin-amaju/optifyx/weather_app.png)
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kelvin-amaju/weather-app.git
+   git clone https://github.com/kelvin-amaju/optifyx.git
    ```
 2. Navigate to the project directory:
    ```bash
