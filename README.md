@@ -14,7 +14,7 @@ A simple weather application that allows users to fetch and display current weat
 - **JavaScript**: Fetching and displaying weather data from the API.
 
 ## Demo Preview 🎥
-![Weather App Preview](https://github.com/kelvin-amaju/optifyx/weather-app/weather_app.png)
+![Weather App Preview](https://github.com/kelvin-amaju/optifyx/weather_app.png)
 
 ## Installation
 1. Clone the repository:
